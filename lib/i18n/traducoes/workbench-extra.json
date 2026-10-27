@@ -1,0 +1,1614 @@
+{
+  "无截止日期": {
+    "zh-CN": "无截止日期",
+    "en-US": "No deadline"
+  },
+  "排队中": {
+    "zh-CN": "排队中",
+    "en-US": "Queued"
+  },
+  "运行中": {
+    "zh-CN": "运行中",
+    "en-US": "Running"
+  },
+  "待确认": {
+    "zh-CN": "待确认",
+    "en-US": "Awaiting confirmation"
+  },
+  "已完成": {
+    "zh-CN": "已完成",
+    "en-US": "Completed"
+  },
+  "部分完成": {
+    "zh-CN": "部分完成",
+    "en-US": "Partially completed"
+  },
+  "失败": {
+    "zh-CN": "失败",
+    "en-US": "Failed"
+  },
+  "已取消": {
+    "zh-CN": "已取消",
+    "en-US": "Canceled"
+  },
+  "客户总数": {
+    "zh-CN": "客户总数",
+    "en-US": "Total customers"
+  },
+  "组织内有效联系人": {
+    "zh-CN": "组织内有效联系人",
+    "en-US": "Active contacts in the organization"
+  },
+  "进行中商机": {
+    "zh-CN": "进行中商机",
+    "en-US": "Open opportunities"
+  },
+  "所有销售漏斗": {
+    "zh-CN": "所有销售漏斗",
+    "en-US": "All sales pipelines"
+  },
+  "待处理任务": {
+    "zh-CN": "待处理任务",
+    "en-US": "Pending tasks"
+  },
+  "尚未完成": {
+    "zh-CN": "尚未完成",
+    "en-US": "Not yet completed"
+  },
+  "在途商机金额": {
+    "zh-CN": "在途商机金额",
+    "en-US": "Open opportunity value"
+  },
+  "按当前开放商机汇总": {
+    "zh-CN": "按当前开放商机汇总",
+    "en-US": "Total value of currently open opportunities"
+  },
+  "早上好，": {
+    "zh-CN": "早上好，",
+    "en-US": "Good morning, "
+  },
+  "今天一起推进客户关系，让 Agent 承担重复的 CRM 操作。": {
+    "zh-CN": "今天一起推进客户关系，让 Agent 承担重复的 CRM 操作。",
+    "en-US": "Move customer relationships forward today and let Agents handle repetitive CRM work."
+  },
+  " 进入 Agent 工作台 ": {
+    "zh-CN": " 进入 Agent 工作台 ",
+    "en-US": " Open Agent workbench "
+  },
+  "业务概览": {
+    "zh-CN": "业务概览",
+    "en-US": "Business overview"
+  },
+  "最近 Agent 活动": {
+    "zh-CN": "最近 Agent 活动",
+    "en-US": "Recent Agent activity"
+  },
+  "运行过程可在工作台完整回放": {
+    "zh-CN": "运行过程可在工作台完整回放",
+    "en-US": "Replay the full run in the workbench"
+  },
+  "查看工作台 ": {
+    "zh-CN": "查看工作台 ",
+    "en-US": "View workbench "
+  },
+  "还没有 Agent 执行记录": {
+    "zh-CN": "还没有 Agent 执行记录",
+    "en-US": "No Agent runs yet"
+  },
+  "选择一个内置 Agent，给它一个真实的 CRM 目标，第一条运行记录会出现在这里。": {
+    "zh-CN": "选择一个内置 Agent，给它一个真实的 CRM 目标，第一条运行记录会出现在这里。",
+    "en-US": "Choose a built-in Agent and give it a real CRM goal. Its first run will appear here."
+  },
+  "运行第一个任务 ": {
+    "zh-CN": "运行第一个任务 ",
+    "en-US": "Run your first task "
+  },
+  "即将到期任务": {
+    "zh-CN": "即将到期任务",
+    "en-US": "Upcoming tasks"
+  },
+  "按截止时间优先处理 CRM 跟进": {
+    "zh-CN": "按截止时间优先处理 CRM 跟进",
+    "en-US": "Prioritize CRM follow-ups by due date"
+  },
+  "全部任务 ": {
+    "zh-CN": "全部任务 ",
+    "en-US": "All tasks "
+  },
+  "进行中": {
+    "zh-CN": "进行中",
+    "en-US": "In progress"
+  },
+  "待处理": {
+    "zh-CN": "待处理",
+    "en-US": "Pending"
+  },
+  "紧急": {
+    "zh-CN": "紧急",
+    "en-US": "Urgent"
+  },
+  "高优先级": {
+    "zh-CN": "高优先级",
+    "en-US": "High priority"
+  },
+  "普通": {
+    "zh-CN": "普通",
+    "en-US": "Normal"
+  },
+  "当前没有到期任务": {
+    "zh-CN": "当前没有到期任务",
+    "en-US": "No tasks currently due"
+  },
+  "查看任务列表": {
+    "zh-CN": "查看任务列表",
+    "en-US": "View task list"
+  },
+  "销售漏斗": {
+    "zh-CN": "销售漏斗",
+    "en-US": "Sales pipeline"
+  },
+  "{value1} · 当前开放商机": {
+    "zh-CN": "{value1} · 当前开放商机",
+    "en-US": "{value1} · Current open opportunities"
+  },
+  "开放商机按阶段分布": {
+    "zh-CN": "开放商机按阶段分布",
+    "en-US": "Open opportunities by stage"
+  },
+  "查看完整漏斗 ": {
+    "zh-CN": "查看完整漏斗 ",
+    "en-US": "View full pipeline "
+  },
+  "尚未配置可展示的销售阶段。": {
+    "zh-CN": "尚未配置可展示的销售阶段。",
+    "en-US": "No sales stages configured for display yet."
+  },
+  "设置销售漏斗": {
+    "zh-CN": "设置销售漏斗",
+    "en-US": "Set up sales pipeline"
+  },
+  "首页": {
+    "zh-CN": "首页",
+    "en-US": "Home"
+  },
+  "暂时没有可用的工作区": {
+    "zh-CN": "暂时没有可用的工作区",
+    "en-US": "No workspace is currently available"
+  },
+  "请联系组织管理员确认你的成员权限。": {
+    "zh-CN": "请联系组织管理员确认你的成员权限。",
+    "en-US": "Contact your organization administrator to verify your membership permissions."
+  },
+  "首页数据暂时无法加载": {
+    "zh-CN": "首页数据暂时无法加载",
+    "en-US": "Home data is temporarily unavailable"
+  },
+  "请刷新页面重试；CRM 数据没有被修改。": {
+    "zh-CN": "请刷新页面重试；CRM 数据没有被修改。",
+    "en-US": "Refresh the page to try again; CRM data has not been changed."
+  },
+  "伙伴": {
+    "zh-CN": "伙伴",
+    "en-US": "there"
+  },
+  "Agent–CRM 工作台": {
+    "zh-CN": "Agent–CRM 工作台",
+    "en-US": "Agent–CRM workbench"
+  },
+  "先连接组织的真实模型，内置 Agent 可先查看但暂时不能运行。系统不会使用模拟模型。": {
+    "zh-CN": "先连接组织的真实模型，内置 Agent 可先查看但暂时不能运行。系统不会使用模拟模型。",
+    "en-US": "Connect a real model for your organization first. Built-in Agents can be viewed but cannot run yet. The system does not use simulated models."
+  },
+  "加载内置 Agent 失败，请刷新重试。": {
+    "zh-CN": "加载内置 Agent 失败，请刷新重试。",
+    "en-US": "Failed to load built-in Agents. Refresh to try again."
+  },
+  "任务开始": {
+    "zh-CN": "任务开始",
+    "en-US": "Task started"
+  },
+  "CRM 上下文已加载": {
+    "zh-CN": "CRM 上下文已加载",
+    "en-US": "CRM context loaded"
+  },
+  "Agent 已完成决策": {
+    "zh-CN": "Agent 已完成决策",
+    "en-US": "Agent decision completed"
+  },
+  "提出 CRM 操作": {
+    "zh-CN": "提出 CRM 操作",
+    "en-US": "CRM action proposed"
+  },
+  "策略检查通过": {
+    "zh-CN": "策略检查通过",
+    "en-US": "Policy check passed"
+  },
+  "工具开始执行": {
+    "zh-CN": "工具开始执行",
+    "en-US": "Tool execution started"
+  },
+  "工具执行结束": {
+    "zh-CN": "工具执行结束",
+    "en-US": "Tool execution finished"
+  },
+  "CRM 状态已变化": {
+    "zh-CN": "CRM 状态已变化",
+    "en-US": "CRM state changed"
+  },
+  "等待人工确认": {
+    "zh-CN": "等待人工确认",
+    "en-US": "Waiting for human confirmation"
+  },
+  "收到人工决策": {
+    "zh-CN": "收到人工决策",
+    "en-US": "Human decision received"
+  },
+  "运行已恢复": {
+    "zh-CN": "运行已恢复",
+    "en-US": "Run resumed"
+  },
+  "运行完成": {
+    "zh-CN": "运行完成",
+    "en-US": "Run completed"
+  },
+  "运行失败": {
+    "zh-CN": "运行失败",
+    "en-US": "Run failed"
+  },
+  "运行已取消": {
+    "zh-CN": "运行已取消",
+    "en-US": "Run canceled"
+  },
+  "多 Agent 审查开始": {
+    "zh-CN": "多 Agent 审查开始",
+    "en-US": "Multi-Agent review started"
+  },
+  "只读 Specialist 开始": {
+    "zh-CN": "只读 Specialist 开始",
+    "en-US": "Read-only Specialist started"
+  },
+  "只读 Specialist 完成": {
+    "zh-CN": "只读 Specialist 完成",
+    "en-US": "Read-only Specialist completed"
+  },
+  "只读 Specialist 失败": {
+    "zh-CN": "只读 Specialist 失败",
+    "en-US": "Read-only Specialist failed"
+  },
+  "Specialist 证据冲突": {
+    "zh-CN": "Specialist 证据冲突",
+    "en-US": "Conflicting Specialist evidence"
+  },
+  "多 Agent 审查完成": {
+    "zh-CN": "多 Agent 审查完成",
+    "en-US": "Multi-Agent review completed"
+  },
+  "用量已记录": {
+    "zh-CN": "用量已记录",
+    "en-US": "Usage recorded"
+  },
+  "请求转交人工": {
+    "zh-CN": "请求转交人工",
+    "en-US": "Request human handoff"
+  },
+  "更新商机字段": {
+    "zh-CN": "更新商机字段",
+    "en-US": "Update opportunity fields"
+  },
+  "安排客户跟进": {
+    "zh-CN": "安排客户跟进",
+    "en-US": "Schedule customer follow-up"
+  },
+  "发送客户回复": {
+    "zh-CN": "发送客户回复",
+    "en-US": "Send customer reply"
+  },
+  "向飞书同事提问": {
+    "zh-CN": "向飞书同事提问",
+    "en-US": "Ask a Feishu colleague"
+  },
+  "发送策略拦截": {
+    "zh-CN": "发送策略拦截",
+    "en-US": "Sending policy blocked"
+  },
+  "发送策略允许": {
+    "zh-CN": "发送策略允许",
+    "en-US": "Sending policy allowed"
+  },
+  "发送策略跳过此项": {
+    "zh-CN": "发送策略跳过此项",
+    "en-US": "Sending policy skipped this check"
+  },
+  "此 CRM 操作需要人工确认": {
+    "zh-CN": "此 CRM 操作需要人工确认",
+    "en-US": "This CRM action requires human confirmation"
+  },
+  "允许自动执行可逆写入": {
+    "zh-CN": "允许自动执行可逆写入",
+    "en-US": "Automatic reversible write allowed"
+  },
+  "无法读取评测，请重试。": {
+    "zh-CN": "无法读取评测，请重试。",
+    "en-US": "Could not read the evaluation. Try again."
+  },
+  "无法读取评测，请检查连接后重试。": {
+    "zh-CN": "无法读取评测，请检查连接后重试。",
+    "en-US": "Could not read the evaluation. Check your connection and try again."
+  },
+  "无法读取运行详情": {
+    "zh-CN": "无法读取运行详情",
+    "en-US": "Could not read run details"
+  },
+  "无法读取最近运行，请刷新重试。": {
+    "zh-CN": "无法读取最近运行，请刷新重试。",
+    "en-US": "Could not read recent runs. Refresh to try again."
+  },
+  "委托商机任务需要选择商机、分级自治模式，并填写业务验收条件。": {
+    "zh-CN": "委托商机任务需要选择商机、分级自治模式，并填写业务验收条件。",
+    "en-US": "Delegating an opportunity mission requires selecting an opportunity and graduated autonomy mode, and entering business acceptance criteria."
+  },
+  "取消失败": {
+    "zh-CN": "取消失败",
+    "en-US": "Cancellation failed"
+  },
+  "评测操作失败": {
+    "zh-CN": "评测操作失败",
+    "en-US": "Evaluation action failed"
+  },
+  "确定性评测已保存；Langfuse 启用时会排队投递，不消耗额外模型额度。": {
+    "zh-CN": "确定性评测已保存；Langfuse 启用时会排队投递，不消耗额外模型额度。",
+    "en-US": "Deterministic evaluation saved; delivery is queued when Langfuse is enabled, without using additional model credits."
+  },
+  "语义 Judge 运行失败": {
+    "zh-CN": "语义 Judge 运行失败",
+    "en-US": "Semantic Judge run failed"
+  },
+  "决策失败": {
+    "zh-CN": "决策失败",
+    "en-US": "Decision failed"
+  },
+  "撤销失败": {
+    "zh-CN": "撤销失败",
+    "en-US": "Undo failed"
+  },
+  "复制 Agent 失败": {
+    "zh-CN": "复制 Agent 失败",
+    "en-US": "Failed to copy Agent"
+  },
+  "无法刷新运行状态": {
+    "zh-CN": "无法刷新运行状态",
+    "en-US": "Could not refresh run status"
+  },
+  "内置 Agent": {
+    "zh-CN": "内置 Agent",
+    "en-US": "Built-in Agent"
+  },
+  "当前组织": {
+    "zh-CN": "当前组织",
+    "en-US": "Current organization"
+  },
+  "任务设置": {
+    "zh-CN": "任务设置",
+    "en-US": "Task settings"
+  },
+  "运行详情": {
+    "zh-CN": "运行详情",
+    "en-US": "Run details"
+  },
+  " · {value1} 待确认": {
+    "zh-CN": " · {value1} 待确认",
+    "en-US": " · {value1} awaiting confirmation"
+  },
+  "新对话": {
+    "zh-CN": "新对话",
+    "en-US": "New conversation"
+  },
+  "Agent 对话": {
+    "zh-CN": "Agent 对话",
+    "en-US": "Agent conversation"
+  },
+  "今天想推进哪件事？": {
+    "zh-CN": "今天想推进哪件事？",
+    "en-US": "What would you like to move forward today?"
+  },
+  "选择 Agent，输入目标，从真实 CRM 上下文开始。": {
+    "zh-CN": "选择 Agent，输入目标，从真实 CRM 上下文开始。",
+    "en-US": "Choose an Agent, enter a goal, and start with real CRM context."
+  },
+  "之前的运行": {
+    "zh-CN": "之前的运行",
+    "en-US": "Previous run"
+  },
+  "运行状态：{value1}": {
+    "zh-CN": "运行状态：{value1}",
+    "en-US": "Run status: {value1}"
+  },
+  "当前运行": {
+    "zh-CN": "当前运行",
+    "en-US": "Current run"
+  },
+  "正在提交任务…": {
+    "zh-CN": "正在提交任务…",
+    "en-US": "Submitting task…"
+  },
+  "无法确认运行状态，请先查看最近运行": {
+    "zh-CN": "无法确认运行状态，请先查看最近运行",
+    "en-US": "Could not confirm run status. Check recent runs first."
+  },
+  "运行错误：": {
+    "zh-CN": "运行错误：",
+    "en-US": "Run error: "
+  },
+  "评测暂不可用，查看原因并重试": {
+    "zh-CN": "评测暂不可用，查看原因并重试",
+    "en-US": "Evaluation unavailable; view the reason and retry"
+  },
+  "业务任务：": {
+    "zh-CN": "业务任务：",
+    "en-US": "Business mission: "
+  },
+  " · Agent 本轮结束不等于业务完成": {
+    "zh-CN": " · Agent 本轮结束不等于业务完成",
+    "en-US": " · Ending this Agent run does not mean the business mission is complete"
+  },
+  "查看 ": {
+    "zh-CN": "查看 ",
+    "en-US": "View "
+  },
+  " 项待确认动作": {
+    "zh-CN": " 项待确认动作",
+    "en-US": " actions awaiting confirmation"
+  },
+  "发送 Agent 任务": {
+    "zh-CN": "发送 Agent 任务",
+    "en-US": "Send Agent task"
+  },
+  "执行模式": {
+    "zh-CN": "执行模式",
+    "en-US": "Execution mode"
+  },
+  "只读检查": {
+    "zh-CN": "只读检查",
+    "en-US": "Read-only inspection"
+  },
+  "分级自治（可逆写入自动执行）": {
+    "zh-CN": "分级自治（可逆写入自动执行）",
+    "en-US": "Graduated autonomy (automatic reversible writes)"
+  },
+  "已启用商机业务任务": {
+    "zh-CN": "已启用商机业务任务",
+    "en-US": "Opportunity mission enabled"
+  },
+  "给 Agent 的任务": {
+    "zh-CN": "给 Agent 的任务",
+    "en-US": "Task for the Agent"
+  },
+  "例如：找出停滞商机并建议明天的跟进计划…": {
+    "zh-CN": "例如：找出停滞商机并建议明天的跟进计划…",
+    "en-US": "E.g., find stalled opportunities and suggest tomorrow's follow-up plan…"
+  },
+  "取消中…": {
+    "zh-CN": "取消中…",
+    "en-US": "Canceling…"
+  },
+  "取消运行": {
+    "zh-CN": "取消运行",
+    "en-US": "Cancel run"
+  },
+  "运行中…": {
+    "zh-CN": "运行中…",
+    "en-US": "Running…"
+  },
+  "运行 Agent": {
+    "zh-CN": "运行 Agent",
+    "en-US": "Run Agent"
+  },
+  "Enter 发送 · Shift+Enter 换行 · 每次发送创建独立运行，CRM 提供上下文": {
+    "zh-CN": "Enter 发送 · Shift+Enter 换行 · 每次发送创建独立运行，CRM 提供上下文",
+    "en-US": "Enter to send · Shift+Enter for a new line · Each submission creates an independent run with CRM context"
+  },
+  "选择 CRM 范围和业务验收条件，关闭后继续对话。": {
+    "zh-CN": "选择 CRM 范围和业务验收条件，关闭后继续对话。",
+    "en-US": "Choose CRM scope and business acceptance criteria, then close this panel to continue the conversation."
+  },
+  "真实运行的策略、业务状态、审批、评估与历史。": {
+    "zh-CN": "真实运行的策略、业务状态、审批、评估与历史。",
+    "en-US": "Policies, business status, approvals, evaluations, and history from real runs."
+  },
+  "知识域：": {
+    "zh-CN": "知识域：",
+    "en-US": "Knowledge domains: "
+  },
+  "CRM 对象类型": {
+    "zh-CN": "CRM 对象类型",
+    "en-US": "CRM object type"
+  },
+  "联系人": {
+    "zh-CN": "联系人",
+    "en-US": "Contact"
+  },
+  "商机": {
+    "zh-CN": "商机",
+    "en-US": "Opportunity"
+  },
+  "会话": {
+    "zh-CN": "会话",
+    "en-US": "Conversation"
+  },
+  "搜索 CRM 对象": {
+    "zh-CN": "搜索 CRM 对象",
+    "en-US": "Search CRM objects"
+  },
+  "按名称或内容搜索 CRM…": {
+    "zh-CN": "按名称或内容搜索 CRM…",
+    "en-US": "Search CRM by name or content…"
+  },
+  "目标对象：": {
+    "zh-CN": "目标对象：",
+    "en-US": "Target object: "
+  },
+  "清除": {
+    "zh-CN": "清除",
+    "en-US": "Clear"
+  },
+  "建立商机业务任务": {
+    "zh-CN": "建立商机业务任务",
+    "en-US": "Create an opportunity mission"
+  },
+  "业务验收条件": {
+    "zh-CN": "业务验收条件",
+    "en-US": "Business acceptance criteria"
+  },
+  "例如：客户确认报价与交期，商机记录和下一次跟进均已更新": {
+    "zh-CN": "例如：客户确认报价与交期，商机记录和下一次跟进均已更新",
+    "en-US": "E.g., customer confirms pricing and delivery, opportunity record and next follow-up are updated"
+  },
+  "Agent 本轮结束后，任务仍等待业务结果验收；模型回答本身不会把任务标记为完成。": {
+    "zh-CN": "Agent 本轮结束后，任务仍等待业务结果验收；模型回答本身不会把任务标记为完成。",
+    "en-US": "After this Agent run ends, the mission still awaits business acceptance; a model reply alone does not mark it complete."
+  },
+  "可观察条件（可选，由 CRM 事实核对）": {
+    "zh-CN": "可观察条件（可选，由 CRM 事实核对）",
+    "en-US": "Observable conditions (optional, checked against CRM facts)"
+  },
+  "商机当前状态": {
+    "zh-CN": "商机当前状态",
+    "en-US": "Current opportunity status"
+  },
+  "不要求": {
+    "zh-CN": "不要求",
+    "en-US": "Not required"
+  },
+  "赢单": {
+    "zh-CN": "赢单",
+    "en-US": "Won"
+  },
+  "丢单": {
+    "zh-CN": "丢单",
+    "en-US": "Lost"
+  },
+  "已核实发送后，同一会话出现客户后续文本": {
+    "zh-CN": "已核实发送后，同一会话出现客户后续文本",
+    "en-US": "A customer follow-up message appears in the same conversation after verified sending"
+  },
+  "这些条件只能核对记录和时间；不能证明客户接受价格、交期或其他自由文本承诺。": {
+    "zh-CN": "这些条件只能核对记录和时间；不能证明客户接受价格、交期或其他自由文本承诺。",
+    "en-US": "These conditions only check records and timing; they cannot prove acceptance of pricing, delivery dates, or other free-text commitments."
+  },
+  "复制并定制": {
+    "zh-CN": "复制并定制",
+    "en-US": "Copy and customize"
+  },
+  "模型与凭据设置": {
+    "zh-CN": "模型与凭据设置",
+    "en-US": "Model and credential settings"
+  },
+  "知识来源与索引设置": {
+    "zh-CN": "知识来源与索引设置",
+    "en-US": "Knowledge source and index settings"
+  },
+  "Wiki 检索还需要可用的 embedding 凭据和已完成的来源索引；仅配置聊天模型不代表知识库已就绪。": {
+    "zh-CN": "Wiki 检索还需要可用的 embedding 凭据和已完成的来源索引；仅配置聊天模型不代表知识库已就绪。",
+    "en-US": "Wiki search also requires working embedding credentials and indexed sources; configuring a chat model alone does not mean the knowledge base is ready."
+  },
+  "CRM 变化与策略": {
+    "zh-CN": "CRM 变化与策略",
+    "en-US": "CRM changes and policies"
+  },
+  "执行状态、待确认动作与用量": {
+    "zh-CN": "执行状态、待确认动作与用量",
+    "en-US": "Execution status, pending actions, and usage"
+  },
+  "商机业务任务 · ": {
+    "zh-CN": "商机业务任务 · ",
+    "en-US": "Opportunity mission · "
+  },
+  "验收条件：": {
+    "zh-CN": "验收条件：",
+    "en-US": "Acceptance criteria: "
+  },
+  "客户发送已被负责人暂停；旧审批不能继续发送。": {
+    "zh-CN": "客户发送已被负责人暂停；旧审批不能继续发送。",
+    "en-US": "Customer sending was paused by the owner; previous approvals cannot continue sending."
+  },
+  "可观察条件：": {
+    "zh-CN": "可观察条件：",
+    "en-US": "Observable condition: "
+  },
+  "商机当前状态为 {value1}": {
+    "zh-CN": "商机当前状态为 {value1}",
+    "en-US": "Current opportunity status is {value1}"
+  },
+  "已核实发送后有同会话入站文本": {
+    "zh-CN": "已核实发送后有同会话入站文本",
+    "en-US": "Inbound text in the same conversation after verified sending"
+  },
+  "当前原因：": {
+    "zh-CN": "当前原因：",
+    "en-US": "Current reason: "
+  },
+  "状态": {
+    "zh-CN": "状态",
+    "en-US": "Status"
+  },
+  "模式": {
+    "zh-CN": "模式",
+    "en-US": "Mode"
+  },
+  "分级自治": {
+    "zh-CN": "分级自治",
+    "en-US": "Graduated autonomy"
+  },
+  "Agent 回复草稿": {
+    "zh-CN": "Agent 回复草稿",
+    "en-US": "Agent reply draft"
+  },
+  "未发送": {
+    "zh-CN": "未发送",
+    "en-US": "Not sent"
+  },
+  "草稿仅供审核，不会自动发送给客户。": {
+    "zh-CN": "草稿仅供审核，不会自动发送给客户。",
+    "en-US": "Draft for review only; it will not be sent to the customer automatically."
+  },
+  "待确认动作": {
+    "zh-CN": "待确认动作",
+    "en-US": "Actions awaiting confirmation"
+  },
+  "草稿尚未发送。批准后创建 CRM 审核发送任务，由正式 worker 重新检查实时策略和会话状态。": {
+    "zh-CN": "草稿尚未发送。批准后创建 CRM 审核发送任务，由正式 worker 重新检查实时策略和会话状态。",
+    "en-US": "The draft has not been sent. Approval creates a CRM reviewed-send task; the production worker rechecks live policies and conversation state."
+  },
+  "问题尚未发送。批准后进入飞书发送队列；送达和同事回复会分别记录，任务不会因此自动完成。": {
+    "zh-CN": "问题尚未发送。批准后进入飞书发送队列；送达和同事回复会分别记录，任务不会因此自动完成。",
+    "en-US": "The question has not been sent. Approval adds it to the Feishu sending queue; delivery and the colleague's reply are recorded separately, and the mission does not automatically complete."
+  },
+  "Agent 未执行此动作。批准后由 CRM Harness 再次校验并调用。": {
+    "zh-CN": "Agent 未执行此动作。批准后由 CRM Harness 再次校验并调用。",
+    "en-US": "The Agent has not executed this action. After approval, the CRM Harness validates and calls it again."
+  },
+  "目标 ": {
+    "zh-CN": "目标 ",
+    "en-US": "Target "
+  },
+  "待核对": {
+    "zh-CN": "待核对",
+    "en-US": "To be verified"
+  },
+  "未记录": {
+    "zh-CN": "未记录",
+    "en-US": "Not recorded"
+  },
+  "时间：": {
+    "zh-CN": "时间：",
+    "en-US": "Time: "
+  },
+  "执行批准后 {value1} 小时": {
+    "zh-CN": "执行批准后 {value1} 小时",
+    "en-US": "{value1} hours after approval is executed"
+  },
+  "未记录，请先核对": {
+    "zh-CN": "未记录，请先核对",
+    "en-US": "Not recorded; verify first"
+  },
+  "收件人 CRM 用户：": {
+    "zh-CN": "收件人 CRM 用户：",
+    "en-US": "Recipient CRM user: "
+  },
+  "未知": {
+    "zh-CN": "未知",
+    "en-US": "Unknown"
+  },
+  "问题：": {
+    "zh-CN": "问题：",
+    "en-US": "Question: "
+  },
+  "批准并进入发送队列": {
+    "zh-CN": "批准并进入发送队列",
+    "en-US": "Approve and queue for sending"
+  },
+  "批准执行": {
+    "zh-CN": "批准执行",
+    "en-US": "Approve execution"
+  },
+  "拒绝": {
+    "zh-CN": "拒绝",
+    "en-US": "Reject"
+  },
+  "已进入 CRM 发送队列": {
+    "zh-CN": "已进入 CRM 发送队列",
+    "en-US": "Added to the CRM sending queue"
+  },
+  "批准已记录，执行中": {
+    "zh-CN": "批准已记录，执行中",
+    "en-US": "Approval recorded; executing"
+  },
+  "执行结果待人工对账": {
+    "zh-CN": "执行结果待人工对账",
+    "en-US": "Execution result requires manual reconciliation"
+  },
+  "CRM 动作可能已经生效，系统不会自动重试。请先核对目标对象和执行记录。": {
+    "zh-CN": "CRM 动作可能已经生效，系统不会自动重试。请先核对目标对象和执行记录。",
+    "en-US": "The CRM action may already have taken effect; the system will not retry automatically. Check the target object and execution records first."
+  },
+  "撤销": {
+    "zh-CN": "撤销",
+    "en-US": "Undo"
+  },
+  "变更字段：": {
+    "zh-CN": "变更字段：",
+    "en-US": "Changed fields: "
+  },
+  "Harness 记录": {
+    "zh-CN": "Harness 记录",
+    "en-US": "Harness records"
+  },
+  " 个事件 · ": {
+    "zh-CN": " 个事件 · ",
+    "en-US": " events · "
+  },
+  " 个操作提案": {
+    "zh-CN": " 个操作提案",
+    "en-US": " action proposals"
+  },
+  "Specialist 子运行": {
+    "zh-CN": "Specialist 子运行",
+    "en-US": "Specialist sub-runs"
+  },
+  "Specialist 只读；CRM 写入仍由父 Agent 和 Harness 单写者路径处理。": {
+    "zh-CN": "Specialist 只读；CRM 写入仍由父 Agent 和 Harness 单写者路径处理。",
+    "en-US": "Specialists are read-only; CRM writes still use the parent Agent and Harness single-writer path."
+  },
+  "评测读取失败": {
+    "zh-CN": "评测读取失败",
+    "en-US": "Evaluation read failed"
+  },
+  "评测暂不可用：": {
+    "zh-CN": "评测暂不可用：",
+    "en-US": "Evaluation unavailable: "
+  },
+  "运行结果仍保留。重试只读取评测，不会重新运行 Agent、语义 Judge 或投递 Eval。": {
+    "zh-CN": "运行结果仍保留。重试只读取评测，不会重新运行 Agent、语义 Judge 或投递 Eval。",
+    "en-US": "Run results are retained. Retrying only reads the evaluation; it does not rerun the Agent, Semantic Judge, or deliver Eval."
+  },
+  "运行期间会自动刷新评测，结束后可手动重试。": {
+    "zh-CN": "运行期间会自动刷新评测，结束后可手动重试。",
+    "en-US": "Evaluations refresh automatically during runs; you can retry manually after completion."
+  },
+  "正在读取评测…": {
+    "zh-CN": "正在读取评测…",
+    "en-US": "Reading evaluation…"
+  },
+  "重试读取评测": {
+    "zh-CN": "重试读取评测",
+    "en-US": "Retry reading evaluation"
+  },
+  "此项检查未发现问题；不代表业务结果已验收。": {
+    "zh-CN": "此项检查未发现问题；不代表业务结果已验收。",
+    "en-US": "This check found no issues; it does not mean the business result has been accepted."
+  },
+  " 次工具 ·": {
+    "zh-CN": " 次工具 ·",
+    "en-US": " tool calls ·"
+  },
+  " 次失败 ·": {
+    "zh-CN": " 次失败 ·",
+    "en-US": " failures ·"
+  },
+  " 条知识证据 ·": {
+    "zh-CN": " 条知识证据 ·",
+    "en-US": " knowledge evidence items ·"
+  },
+  " 个 Specialist": {
+    "zh-CN": " 个 Specialist",
+    "en-US": " Specialists"
+  },
+  " · {value1} 条 Claims": {
+    "zh-CN": " · {value1} 条 Claims",
+    "en-US": " · {value1} claims"
+  },
+  "保存并投递确定性 Eval": {
+    "zh-CN": "保存并投递确定性 Eval",
+    "en-US": "Save and deliver deterministic Eval"
+  },
+  "语义 Judge：": {
+    "zh-CN": "语义 Judge：",
+    "en-US": "Semantic Judge: "
+  },
+  "已保存的真实评测 · 本次读取未调用模型；上方为独立确定性门禁。": {
+    "zh-CN": "已保存的真实评测 · 本次读取未调用模型；上方为独立确定性门禁。",
+    "en-US": "Saved real evaluation · This read did not call a model; the independent deterministic checks are shown above."
+  },
+  "语义 Judge 上次未完成；确定性 Harness 结果仍然有效。": {
+    "zh-CN": "语义 Judge 上次未完成；确定性 Harness 结果仍然有效。",
+    "en-US": "The previous Semantic Judge run did not complete; deterministic Harness results remain valid."
+  },
+  "当前为确定性 Harness 评测；语义 Judge 需要显式运行。": {
+    "zh-CN": "当前为确定性 Harness 评测；语义 Judge 需要显式运行。",
+    "en-US": "This is a deterministic Harness evaluation; Semantic Judge must be run explicitly."
+  },
+  "运行语义 Judge（消耗模型额度）": {
+    "zh-CN": "运行语义 Judge（消耗模型额度）",
+    "en-US": "Run Semantic Judge (uses model credits)"
+  },
+  "运行后这里显示策略结果、待确认动作和 CRM 状态变化。": {
+    "zh-CN": "运行后这里显示策略结果、待确认动作和 CRM 状态变化。",
+    "en-US": "After a run, policy results, pending actions, and CRM state changes appear here."
+  },
+  "最近运行": {
+    "zh-CN": "最近运行",
+    "en-US": "Recent runs"
+  },
+  "执行时间线 · ": {
+    "zh-CN": "执行时间线 · ",
+    "en-US": "Execution timeline · "
+  },
+  " 条事件": {
+    "zh-CN": " 条事件",
+    "en-US": " events"
+  },
+  "实际读取的知识证据": {
+    "zh-CN": "实际读取的知识证据",
+    "en-US": "Knowledge evidence actually read"
+  },
+  "来自本次运行成功工具观察，已重新核对当前来源权限。索引版本不等于商业政策批准。": {
+    "zh-CN": "来自本次运行成功工具观察，已重新核对当前来源权限。索引版本不等于商业政策批准。",
+    "en-US": "From successful tool observations in this run, with current source permissions rechecked. An index version does not imply approval of a business policy."
+  },
+  " · 索引已有更新，请重查": {
+    "zh-CN": " · 索引已有更新，请重查",
+    "en-US": " · Index updated; search again"
+  },
+  "索引版本": {
+    "zh-CN": "索引版本",
+    "en-US": "Index version"
+  },
+  "记忆快照": {
+    "zh-CN": "记忆快照",
+    "en-US": "Memory snapshot"
+  },
+  " · 片段 {value1}": {
+    "zh-CN": " · 片段 {value1}",
+    "en-US": " · Passage {value1}"
+  },
+  "证据 ID：": {
+    "zh-CN": "证据 ID：",
+    "en-US": "Evidence ID: "
+  },
+  "查看来源": {
+    "zh-CN": "查看来源",
+    "en-US": "View source"
+  },
+  "结构化结果": {
+    "zh-CN": "结构化结果",
+    "en-US": "Structured result"
+  },
+  "· Agent 陈述，业务结果尚需核验": {
+    "zh-CN": "· Agent 陈述，业务结果尚需核验",
+    "en-US": "· Agent statements; business results still require verification"
+  },
+  "引用线索（未独立核验）": {
+    "zh-CN": "引用线索（未独立核验）",
+    "en-US": "Reference leads (not independently verified)"
+  },
+  "缺失信息：": {
+    "zh-CN": "缺失信息：",
+    "en-US": "Missing information: "
+  },
+  "建议下一步：": {
+    "zh-CN": "建议下一步：",
+    "en-US": "Suggested next step: "
+  },
+  "建议唤醒条件：": {
+    "zh-CN": "建议唤醒条件：",
+    "en-US": "Suggested wake condition: "
+  },
+  "（不自动设置）": {
+    "zh-CN": "（不自动设置）",
+    "en-US": " (not set automatically)"
+  },
+  "发送策略修改失败，请重试。": {
+    "zh-CN": "发送策略修改失败，请重试。",
+    "en-US": "Failed to change the sending policy. Try again."
+  },
+  "无法确认发送策略，请刷新后核对。": {
+    "zh-CN": "无法确认发送策略，请刷新后核对。",
+    "en-US": "Could not confirm the sending policy. Refresh and verify."
+  },
+  "无法确认发送策略，请重试。": {
+    "zh-CN": "无法确认发送策略，请重试。",
+    "en-US": "Could not confirm the sending policy. Try again."
+  },
+  "发送策略调整原因": {
+    "zh-CN": "发送策略调整原因",
+    "en-US": "Reason for changing the sending policy"
+  },
+  "说明暂停或恢复的原因（至少 5 个字符）": {
+    "zh-CN": "说明暂停或恢复的原因（至少 5 个字符）",
+    "en-US": "Explain why you are pausing or resuming (at least 5 characters)"
+  },
+  "正在保存发送策略…": {
+    "zh-CN": "正在保存发送策略…",
+    "en-US": "Saving sending policy…"
+  },
+  "恢复客户发送": {
+    "zh-CN": "恢复客户发送",
+    "en-US": "Resume customer messages"
+  },
+  "暂停客户发送": {
+    "zh-CN": "暂停客户发送",
+    "en-US": "Pause customer messages"
+  },
+  "只控制此任务的客户发送；调查仍可继续。在途消息可能已送达。恢复后仍须重新审核，旧审批不会复活。": {
+    "zh-CN": "只控制此任务的客户发送；调查仍可继续。在途消息可能已送达。恢复后仍须重新审核，旧审批不会复活。",
+    "en-US": "Only controls customer messages for this mission; investigation can continue. Messages in transit may already have arrived. Resuming still requires a new review; previous approvals are not restored."
+  },
+  "CRM 情报员": {
+    "zh-CN": "CRM 情报员",
+    "en-US": "CRM Intelligence Agent"
+  },
+  "汇总客户、会话、商机、任务与知识中的证据，回答业务问题。": {
+    "zh-CN": "汇总客户、会话、商机、任务与知识中的证据，回答业务问题。",
+    "en-US": "Brings together evidence from customers, conversations, opportunities, tasks, and knowledge to answer business questions."
+  },
+  "客户 360 摘要": {
+    "zh-CN": "客户 360 摘要",
+    "en-US": "Customer 360 summary"
+  },
+  "上下文读取、跨模块证据与来源": {
+    "zh-CN": "上下文读取、跨模块证据与来源",
+    "en-US": "Context retrieval, cross-module evidence, and sources"
+  },
+  "停滞商机原因": {
+    "zh-CN": "停滞商机原因",
+    "en-US": "Why opportunities stall"
+  },
+  "并行读取、证据汇总与事实/推断区分": {
+    "zh-CN": "并行读取、证据汇总与事实/推断区分",
+    "en-US": "Parallel retrieval, evidence synthesis, and separating facts from inference"
+  },
+  "知识依据核对": {
+    "zh-CN": "知识依据核对",
+    "en-US": "Verify knowledge sources"
+  },
+  "RAG 检索与引用来源": {
+    "zh-CN": "RAG 检索与引用来源",
+    "en-US": "RAG retrieval and source citations"
+  },
+  "销售运营 Agent": {
+    "zh-CN": "销售运营 Agent",
+    "en-US": "Sales Operations Agent"
+  },
+  "发现漏斗跟进缺口，并在授权范围内提出或执行 CRM 内部操作。": {
+    "zh-CN": "发现漏斗跟进缺口，并在授权范围内提出或执行 CRM 内部操作。",
+    "en-US": "Finds pipeline follow-up gaps and proposes or executes internal CRM actions within its authorization."
+  },
+  "找出待跟进商机": {
+    "zh-CN": "找出待跟进商机",
+    "en-US": "Find opportunities needing follow-up"
+  },
+  "多步读取与状态观察": {
+    "zh-CN": "多步读取与状态观察",
+    "en-US": "Multi-step retrieval and state observation"
+  },
+  "补一条跟进任务": {
+    "zh-CN": "补一条跟进任务",
+    "en-US": "Add a follow-up task"
+  },
+  "可撤销 CRM 写入、差异审计与补偿": {
+    "zh-CN": "可撤销 CRM 写入、差异审计与补偿",
+    "en-US": "Reversible CRM writes, change auditing, and compensation"
+  },
+  "整理商机阶段": {
+    "zh-CN": "整理商机阶段",
+    "en-US": "Review opportunity stages"
+  },
+  "计划、写入前检查与失败后续行": {
+    "zh-CN": "计划、写入前检查与失败后续行",
+    "en-US": "Planning, pre-write checks, and continuing after failures"
+  },
+  "客户沟通 Agent": {
+    "zh-CN": "客户沟通 Agent",
+    "en-US": "Customer Communications Agent"
+  },
+  "结合会话和知识起草回复；发送、转人工等动作由 Harness 守门。": {
+    "zh-CN": "结合会话和知识起草回复；发送、转人工等动作由 Harness 守门。",
+    "en-US": "Drafts replies using conversations and knowledge; the Harness controls sending, human handoffs, and other actions."
+  },
+  "拟一条有依据的回复": {
+    "zh-CN": "拟一条有依据的回复",
+    "en-US": "Draft an evidence-based reply"
+  },
+  "上下文、知识检索与草稿/发送边界": {
+    "zh-CN": "上下文、知识检索与草稿/发送边界",
+    "en-US": "Context, knowledge retrieval, and the boundary between drafting and sending"
+  },
+  "检查承诺风险": {
+    "zh-CN": "检查承诺风险",
+    "en-US": "Check commitment risks"
+  },
+  "发送前策略与守护规则": {
+    "zh-CN": "发送前策略与守护规则",
+    "en-US": "Pre-send policies and guardrails"
+  },
+  "识别人工接管": {
+    "zh-CN": "识别人工接管",
+    "en-US": "Identify when a human should take over"
+  },
+  "handoff 判定和人工责任边界": {
+    "zh-CN": "handoff 判定和人工责任边界",
+    "en-US": "Handoff decisions and human responsibility boundaries"
+  },
+  "CRM 主管 Agent": {
+    "zh-CN": "CRM 主管 Agent",
+    "en-US": "CRM Supervisor Agent"
+  },
+  "跨漏斗、任务与执行记录发现运营异常，给出可审核的修复计划。": {
+    "zh-CN": "跨漏斗、任务与执行记录发现运营异常，给出可审核的修复计划。",
+    "en-US": "Identifies operational issues across pipelines, tasks, and run records, and proposes reviewable remediation plans."
+  },
+  "漏斗健康检查": {
+    "zh-CN": "漏斗健康检查",
+    "en-US": "Pipeline health check"
+  },
+  "跨模块长任务、预算与部分成功": {
+    "zh-CN": "跨模块长任务、预算与部分成功",
+    "en-US": "Long-running cross-module tasks, budgets, and partial success"
+  },
+  "跟进队列盘点": {
+    "zh-CN": "跟进队列盘点",
+    "en-US": "Review the follow-up queue"
+  },
+  "多工具编排与可回放执行": {
+    "zh-CN": "多工具编排与可回放执行",
+    "en-US": "Multi-tool orchestration and replayable execution"
+  },
+  "运行成本复盘": {
+    "zh-CN": "运行成本复盘",
+    "en-US": "Review run costs"
+  },
+  "运行事件、预算与失败观察": {
+    "zh-CN": "运行事件、预算与失败观察",
+    "en-US": "Run events, budgets, and failure observation"
+  },
+  "任务完成": {
+    "zh-CN": "任务完成",
+    "en-US": "Task completion"
+  },
+  "答案质量": {
+    "zh-CN": "答案质量",
+    "en-US": "Answer quality"
+  },
+  "知识与证据": {
+    "zh-CN": "知识与证据",
+    "en-US": "Knowledge and evidence"
+  },
+  "工具可靠性": {
+    "zh-CN": "工具可靠性",
+    "en-US": "Tool reliability"
+  },
+  "策略合规": {
+    "zh-CN": "策略合规",
+    "en-US": "Policy compliance"
+  },
+  "执行效率": {
+    "zh-CN": "执行效率",
+    "en-US": "Execution efficiency"
+  },
+  "多 Agent 协作": {
+    "zh-CN": "多 Agent 协作",
+    "en-US": "Multi-Agent collaboration"
+  },
+  "运行尚未进入终态。": {
+    "zh-CN": "运行尚未进入终态。",
+    "en-US": "The run has not reached a terminal state."
+  },
+  "运行只得到部分结果，需要检查缺失材料或预算。": {
+    "zh-CN": "运行只得到部分结果，需要检查缺失材料或预算。",
+    "en-US": "The run produced only partial results. Check missing materials or the budget."
+  },
+  "运行没有形成可用的完整结果。": {
+    "zh-CN": "运行没有形成可用的完整结果。",
+    "en-US": "The run did not produce a usable, complete result."
+  },
+  "尚无可评测的最终答案。": {
+    "zh-CN": "尚无可评测的最终答案。",
+    "en-US": "No final answer is available for evaluation yet."
+  },
+  "独立 CRM 存在性记录表明运行结束时有确认记忆，但工具观察遗漏了这些事实。": {
+    "zh-CN": "独立 CRM 存在性记录表明运行结束时有确认记忆，但工具观察遗漏了这些事实。",
+    "en-US": "Independent CRM existence records show confirmed memory at the end of the run, but tool observations omitted these facts."
+  },
+  "确认记忆读取不完整或不可用；不能把未读取解释为不存在。": {
+    "zh-CN": "确认记忆读取不完整或不可用；不能把未读取解释为不存在。",
+    "en-US": "Confirmed memory retrieval was incomplete or unavailable; unread information must not be treated as nonexistent."
+  },
+  "确认记忆的存在性已独立核对；自然语言结论仍需语义复核，并非业务验收。": {
+    "zh-CN": "确认记忆的存在性已独立核对；自然语言结论仍需语义复核，并非业务验收。",
+    "en-US": "The existence of confirmed memory was independently checked; natural-language conclusions still require semantic review and do not constitute business acceptance."
+  },
+  "结构化结果不符合产品契约。": {
+    "zh-CN": "结构化结果不符合产品契约。",
+    "en-US": "The structured result does not meet the product contract."
+  },
+  "部分引用没有出现在本次运行的成功工具观察或持久化协作记录中。": {
+    "zh-CN": "部分引用没有出现在本次运行的成功工具观察或持久化协作记录中。",
+    "en-US": "Some references did not appear in successful tool observations or persisted collaboration records from this run."
+  },
+  "部分结构化字段断言与本次运行实际观察到的 CRM 值不一致。": {
+    "zh-CN": "部分结构化字段断言与本次运行实际观察到的 CRM 值不一致。",
+    "en-US": "Some structured field assertions differ from the CRM values actually observed in this run."
+  },
+  "部分结构化字段断言不属于可核对字段，或成功工具观察中没有该字段。": {
+    "zh-CN": "部分结构化字段断言不属于可核对字段，或成功工具观察中没有该字段。",
+    "en-US": "Some structured field assertions are not verifiable fields, or the field is absent from successful tool observations."
+  },
+  "结构化结果没有可追溯的引用，不能据此证明事实性结论。": {
+    "zh-CN": "结构化结果没有可追溯的引用，不能据此证明事实性结论。",
+    "en-US": "The structured result has no traceable references and cannot substantiate factual conclusions."
+  },
+  "引用来源和显式字段断言已核对；自然语言声明及当前业务结果仍需独立复核。": {
+    "zh-CN": "引用来源和显式字段断言已核对；自然语言声明及当前业务结果仍需独立复核。",
+    "en-US": "Reference sources and explicit field assertions were checked; natural-language claims and current business results still require independent review."
+  },
+  "Agent 明确报告仍有缺失材料，不能将本次结果评为完整交付。": {
+    "zh-CN": "Agent 明确报告仍有缺失材料，不能将本次结果评为完整交付。",
+    "en-US": "The Agent explicitly reported missing materials; this result cannot be rated as a complete delivery."
+  },
+  "最终答案包含面向模型的内部写作/组织指令。": {
+    "zh-CN": "最终答案包含面向模型的内部写作/组织指令。",
+    "en-US": "The final answer contains internal writing or organization instructions intended for the model."
+  },
+  "最终答案可能在句子或 Markdown 结构中间被截断。": {
+    "zh-CN": "最终答案可能在句子或 Markdown 结构中间被截断。",
+    "en-US": "The final answer may have been truncated within a sentence or Markdown structure."
+  },
+  "最终答案包含重复的长段落。": {
+    "zh-CN": "最终答案包含重复的长段落。",
+    "en-US": "The final answer contains repeated long paragraphs."
+  },
+  "该评测配置要求检索知识，但运行没有调用知识工具。": {
+    "zh-CN": "该评测配置要求检索知识，但运行没有调用知识工具。",
+    "en-US": "This evaluation profile requires knowledge retrieval, but the run did not call a knowledge tool."
+  },
+  "本次运行未调用知识检索；语义 Judge 可进一步判断是否本应调用。": {
+    "zh-CN": "本次运行未调用知识检索；语义 Judge 可进一步判断是否本应调用。",
+    "en-US": "This run did not retrieve knowledge; the Semantic Judge can assess whether retrieval was needed."
+  },
+  "知识检索已调用，但没有成功结果。": {
+    "zh-CN": "知识检索已调用，但没有成功结果。",
+    "en-US": "Knowledge retrieval was called, but no successful result was returned."
+  },
+  "知识检索成功，但没有返回可引用证据。": {
+    "zh-CN": "知识检索成功，但没有返回可引用证据。",
+    "en-US": "Knowledge retrieval succeeded but returned no citable evidence."
+  },
+  "存在开始后没有完成事件的工具调用。": {
+    "zh-CN": "存在开始后没有完成事件的工具调用。",
+    "en-US": "Some tool calls started but have no completion event."
+  },
+  "只读运行出现了写入或外部动作执行。": {
+    "zh-CN": "只读运行出现了写入或外部动作执行。",
+    "en-US": "A read-only run executed a write or external action."
+  },
+  "本次运行没有触发 specialist 协作。": {
+    "zh-CN": "本次运行没有触发 specialist 协作。",
+    "en-US": "This run did not trigger Specialist collaboration."
+  },
+  "存在子运行但缺少协作开始事件。": {
+    "zh-CN": "存在子运行但缺少协作开始事件。",
+    "en-US": "Sub-runs exist without a collaboration start event."
+  },
+  "协作没有完成事件。": {
+    "zh-CN": "协作没有完成事件。",
+    "en-US": "Collaboration has no completion event."
+  },
+  "父运行结束时仍有 specialist 未进入终态。": {
+    "zh-CN": "父运行结束时仍有 specialist 未进入终态。",
+    "en-US": "Some Specialists had not reached a terminal state when the parent run ended."
+  },
+  "CRM 对象筛选无效。": {
+    "zh-CN": "CRM 对象筛选无效。",
+    "en-US": "Invalid CRM object filter."
+  },
+  "无法搜索 CRM 对象。": {
+    "zh-CN": "无法搜索 CRM 对象。",
+    "en-US": "Could not search CRM objects."
+  },
+  "无法读取工作台历史。": {
+    "zh-CN": "无法读取工作台历史。",
+    "en-US": "Could not read workbench history."
+  },
+  "请求体必须是 JSON。": {
+    "zh-CN": "请求体必须是 JSON。",
+    "en-US": "The request body must be JSON."
+  },
+  "工作台任务或 CRM 范围无效。": {
+    "zh-CN": "工作台任务或 CRM 范围无效。",
+    "en-US": "Invalid workbench task or CRM scope."
+  },
+  "工作台要求真实模型；请关闭预览桩并配置组织模型。": {
+    "zh-CN": "工作台要求真实模型；请关闭预览桩并配置组织模型。",
+    "en-US": "The workbench requires a real model; disable preview stubs and configure the organization model."
+  },
+  "暂时无法准备内置 Agent。": {
+    "zh-CN": "暂时无法准备内置 Agent。",
+    "en-US": "Could not prepare built-in Agents right now."
+  },
+  "Agent 不存在或不属于当前组织。": {
+    "zh-CN": "Agent 不存在或不属于当前组织。",
+    "en-US": "Agent does not exist or does not belong to the current organization."
+  },
+  "这个内置 Agent 版本尚未安装在当前应用中。": {
+    "zh-CN": "这个内置 Agent 版本尚未安装在当前应用中。",
+    "en-US": "This built-in Agent version is not installed in the current application."
+  },
+  "此 Agent 尚无可运行版本。请先配置组织默认模型；用户 Agent 需先保存版本。": {
+    "zh-CN": "此 Agent 尚无可运行版本。请先配置组织默认模型；用户 Agent 需先保存版本。",
+    "en-US": "This Agent has no runnable version yet. Configure the organization's default model first; user Agents need a saved version."
+  },
+  "先配置组织默认模型；不会发送模拟请求。": {
+    "zh-CN": "先配置组织默认模型；不会发送模拟请求。",
+    "en-US": "Configure the organization's default model first; no simulated requests will be sent."
+  },
+  "所选模型未在 CRM 目录中声明支持工具调用，尚未发起模型请求。": {
+    "zh-CN": "所选模型未在 CRM 目录中声明支持工具调用，尚未发起模型请求。",
+    "en-US": "The selected model does not declare tool calling support in the CRM catalog; no model request was made."
+  },
+  "所选模型已停用，请更新组织模型配置。": {
+    "zh-CN": "所选模型已停用，请更新组织模型配置。",
+    "en-US": "The selected model is retired. Update the organization's model configuration."
+  },
+  "该模型没有有效凭据。请在模型与凭据设置中连接该 Provider；没有请求模型。": {
+    "zh-CN": "该模型没有有效凭据。请在模型与凭据设置中连接该 Provider；没有请求模型。",
+    "en-US": "This model has no valid credentials. Connect its Provider in Model and credential settings; no model request was made."
+  },
+  "暂时无法验证组织模型配置；没有请求模型，请稍后重试。": {
+    "zh-CN": "暂时无法验证组织模型配置；没有请求模型，请稍后重试。",
+    "en-US": "Could not verify the organization's model configuration; no model request was made. Try again later."
+  },
+  "所选 CRM 对象不存在或不属于当前组织。": {
+    "zh-CN": "所选 CRM 对象不存在或不属于当前组织。",
+    "en-US": "The selected CRM object does not exist or does not belong to the current organization."
+  },
+  "委托业务任务需要 act 模式和当前组织的商机。": {
+    "zh-CN": "委托业务任务需要 act 模式和当前组织的商机。",
+    "en-US": "Delegating a business mission requires act mode and an opportunity in the current organization."
+  },
+  "持续业务任务需要未暂停的自动 Agent；用户 Agent 必须发布当前版本，内置 Agent 使用锁定版本。": {
+    "zh-CN": "持续业务任务需要未暂停的自动 Agent；用户 Agent 必须发布当前版本，内置 Agent 使用锁定版本。",
+    "en-US": "Ongoing business missions require an unpaused automatic Agent; user Agents must publish their current version, while built-in Agents use a locked version."
+  },
+  "无法核对 Agent 的持续运行资格。": {
+    "zh-CN": "无法核对 Agent 的持续运行资格。",
+    "en-US": "Could not verify the Agent's eligibility for ongoing execution."
+  },
+  "这个商机已有进行中的业务任务，请先处理现有任务。": {
+    "zh-CN": "这个商机已有进行中的业务任务，请先处理现有任务。",
+    "en-US": "This opportunity already has an active business mission. Handle the existing mission first."
+  },
+  "无法持久化商机任务。": {
+    "zh-CN": "无法持久化商机任务。",
+    "en-US": "Could not persist the opportunity mission."
+  },
+  "无法持久化工作台运行。": {
+    "zh-CN": "无法持久化工作台运行。",
+    "en-US": "Could not persist the workbench run."
+  },
+  "无法持久化运行事件。": {
+    "zh-CN": "无法持久化运行事件。",
+    "en-US": "Could not persist the run event."
+  },
+  "运行已保存，但任务队列暂不可用。": {
+    "zh-CN": "运行已保存，但任务队列暂不可用。",
+    "en-US": "Run saved, but the task queue is temporarily unavailable."
+  },
+  "run id 无效。": {
+    "zh-CN": "run id 无效。",
+    "en-US": "Invalid run ID."
+  },
+  "run 不存在。": {
+    "zh-CN": "run 不存在。",
+    "en-US": "Run does not exist."
+  },
+  "run 已进入终态。": {
+    "zh-CN": "run 已进入终态。",
+    "en-US": "Run has reached a terminal state."
+  },
+  "无法取消 run。": {
+    "zh-CN": "无法取消 run。",
+    "en-US": "Could not cancel the run."
+  },
+  "无法读取评测运行。": {
+    "zh-CN": "无法读取评测运行。",
+    "en-US": "Could not read the evaluation run."
+  },
+  "评测材料读取不完整，无法给出可信评分。": {
+    "zh-CN": "评测材料读取不完整，无法给出可信评分。",
+    "en-US": "Evaluation materials were not fully read; a trustworthy score cannot be provided."
+  },
+  "专家评测材料读取不完整。": {
+    "zh-CN": "专家评测材料读取不完整。",
+    "en-US": "Specialist evaluation materials were not fully read."
+  },
+  "专家运行状态无法安全解析。": {
+    "zh-CN": "专家运行状态无法安全解析。",
+    "en-US": "Specialist run state cannot be safely parsed."
+  },
+  "已结束运行缺少持久化模型观察，无法给出可信评分。": {
+    "zh-CN": "已结束运行缺少持久化模型观察，无法给出可信评分。",
+    "en-US": "The completed run has no persisted model observations; a trustworthy score cannot be provided."
+  },
+  "已结束专家运行缺少持久化模型观察。": {
+    "zh-CN": "已结束专家运行缺少持久化模型观察。",
+    "en-US": "The completed Specialist run has no persisted model observations."
+  },
+  "运行状态无法安全解析。": {
+    "zh-CN": "运行状态无法安全解析。",
+    "en-US": "Run state cannot be safely parsed."
+  },
+  "记忆覆盖校验超出安全读取上限。": {
+    "zh-CN": "记忆覆盖校验超出安全读取上限。",
+    "en-US": "Memory coverage verification exceeded the safe read limit."
+  },
+  "无法独立校验客户记忆作用域。": {
+    "zh-CN": "无法独立校验客户记忆作用域。",
+    "en-US": "Could not independently verify the customer memory scope."
+  },
+  "确认记忆存在性读取不完整。": {
+    "zh-CN": "确认记忆存在性读取不完整。",
+    "en-US": "Confirmed memory existence was not fully read."
+  },
+  "无法准备运行评测。": {
+    "zh-CN": "无法准备运行评测。",
+    "en-US": "Could not prepare the run evaluation."
+  },
+  "无法读取已保存的语义评测。": {
+    "zh-CN": "无法读取已保存的语义评测。",
+    "en-US": "Could not read the saved semantic evaluation."
+  },
+  "无法保存确定性评测。": {
+    "zh-CN": "无法保存确定性评测。",
+    "en-US": "Could not save the deterministic evaluation."
+  },
+  "评测已保存，但投递排队失败。可安全重试。": {
+    "zh-CN": "评测已保存，但投递排队失败。可安全重试。",
+    "en-US": "Evaluation saved, but queuing delivery failed. It is safe to retry."
+  },
+  "运行没有可复现的模型版本，无法启动语义 Judge。": {
+    "zh-CN": "运行没有可复现的模型版本，无法启动语义 Judge。",
+    "en-US": "The run has no reproducible model version; Semantic Judge cannot be started."
+  },
+  "无法读取该运行使用的模型版本。": {
+    "zh-CN": "无法读取该运行使用的模型版本。",
+    "en-US": "Could not read the model version used by this run."
+  },
+  "语义评测已计算，但无法持久化结果。": {
+    "zh-CN": "语义评测已计算，但无法持久化结果。",
+    "en-US": "Semantic evaluation was computed, but the result could not be persisted."
+  },
+  "event sequence 无效。": {
+    "zh-CN": "event sequence 无效。",
+    "en-US": "Invalid event sequence."
+  },
+  "run/proposal id 无效。": {
+    "zh-CN": "run/proposal id 无效。",
+    "en-US": "Invalid run/proposal ID."
+  },
+  "决策参数无效。": {
+    "zh-CN": "决策参数无效。",
+    "en-US": "Invalid decision parameters."
+  },
+  "run 当前不等待确认。": {
+    "zh-CN": "run 当前不等待确认。",
+    "en-US": "Run is not currently awaiting confirmation."
+  },
+  "待确认动作不存在。": {
+    "zh-CN": "待确认动作不存在。",
+    "en-US": "The pending action does not exist."
+  },
+  "这个动作已经处理过。": {
+    "zh-CN": "这个动作已经处理过。",
+    "en-US": "This action has already been handled."
+  },
+  "只读检查运行不能批准或执行 CRM 写入。": {
+    "zh-CN": "只读检查运行不能批准或执行 CRM 写入。",
+    "en-US": "Read-only inspection runs cannot approve or execute CRM writes."
+  },
+  "此工具没有安全效果分类，操作保持未执行。": {
+    "zh-CN": "此工具没有安全效果分类，操作保持未执行。",
+    "en-US": "This tool has no safety effect classification; the action remains unexecuted."
+  },
+  "提案参数未通过 CRM 工具校验；操作保持未执行。": {
+    "zh-CN": "提案参数未通过 CRM 工具校验；操作保持未执行。",
+    "en-US": "Proposal arguments failed CRM tool validation; the action remains unexecuted."
+  },
+  "此提案没有关联商机任务，不能发送内部问题。": {
+    "zh-CN": "此提案没有关联商机任务，不能发送内部问题。",
+    "en-US": "This proposal has no linked opportunity mission; an internal question cannot be sent."
+  },
+  "飞书渠道或收件人目前不可用；没有创建发送任务。": {
+    "zh-CN": "飞书渠道或收件人目前不可用；没有创建发送任务。",
+    "en-US": "The Feishu channel or recipient is currently unavailable; no sending task was created."
+  },
+  "任务、Agent 或提案状态已变化；没有创建发送任务。": {
+    "zh-CN": "任务、Agent 或提案状态已变化；没有创建发送任务。",
+    "en-US": "The mission, Agent, or proposal state changed; no sending task was created."
+  },
+  "无法安全保存内部提问；没有创建发送任务。": {
+    "zh-CN": "无法安全保存内部提问；没有创建发送任务。",
+    "en-US": "Could not safely save the internal question; no sending task was created."
+  },
+  "任务或提案状态已变化，请刷新运行详情。": {
+    "zh-CN": "任务或提案状态已变化，请刷新运行详情。",
+    "en-US": "The mission or proposal state changed. Refresh the run details."
+  },
+  "拒绝决定状态暂未确认，请刷新运行详情。": {
+    "zh-CN": "拒绝决定状态暂未确认，请刷新运行详情。",
+    "en-US": "The rejection decision state is not confirmed yet. Refresh the run details."
+  },
+  "业务任务已停止，不能再批准关联动作。": {
+    "zh-CN": "业务任务已停止，不能再批准关联动作。",
+    "en-US": "The business mission has stopped; linked actions can no longer be approved."
+  },
+  "提议工具不在当前 CRM 工具目录中。": {
+    "zh-CN": "提议工具不在当前 CRM 工具目录中。",
+    "en-US": "The proposed tool is not in the current CRM tool catalog."
+  },
+  "已确认的回复草稿不可用；没有创建发送任务。": {
+    "zh-CN": "已确认的回复草稿不可用；没有创建发送任务。",
+    "en-US": "The confirmed reply draft is unavailable; no sending task was created."
+  },
+  "会话或 Agent 上下文已变化；没有创建发送任务，请重新运行并审核新草稿。": {
+    "zh-CN": "会话或 Agent 上下文已变化；没有创建发送任务，请重新运行并审核新草稿。",
+    "en-US": "Conversation or Agent context changed; no sending task was created. Run again and review the new draft."
+  },
+  "当前登录会话未满足 CRM 回复批准策略；没有创建发送任务。": {
+    "zh-CN": "当前登录会话未满足 CRM 回复批准策略；没有创建发送任务。",
+    "en-US": "The current login session does not meet the CRM reply approval policy; no sending task was created."
+  },
+  "发送决定已记录；续跑状态暂未确认，后台将从已保存的决定恢复。": {
+    "zh-CN": "发送决定已记录；续跑状态暂未确认，后台将从已保存的决定恢复。",
+    "en-US": "The sending decision was recorded; resumption state is not confirmed yet. Background processing will resume from the saved decision."
+  },
+  "发送决定已记录，但运行状态已变化；请核对任务与客户发送记录。": {
+    "zh-CN": "发送决定已记录，但运行状态已变化；请核对任务与客户发送记录。",
+    "en-US": "The sending decision was recorded, but run state changed. Check the mission and customer sending records."
+  },
+  "无法恢复这次运行的 Agent 版本。": {
+    "zh-CN": "无法恢复这次运行的 Agent 版本。",
+    "en-US": "Could not restore the Agent version for this run."
+  },
+  "这个 Agent 当前版本未授权该 CRM 工具。": {
+    "zh-CN": "这个 Agent 当前版本未授权该 CRM 工具。",
+    "en-US": "This Agent's current version is not authorized to use this CRM tool."
+  },
+  "CRM 对象范围已变化；操作保持未执行。": {
+    "zh-CN": "CRM 对象范围已变化；操作保持未执行。",
+    "en-US": "CRM object scope changed; the action remains unexecuted."
+  },
+  "该动作无法通过当前 CRM Harness 安全执行。": {
+    "zh-CN": "该动作无法通过当前 CRM Harness 安全执行。",
+    "en-US": "This action cannot be executed safely through the current CRM Harness."
+  },
+  "批准决定状态暂未确认，请刷新运行详情。": {
+    "zh-CN": "批准决定状态暂未确认，请刷新运行详情。",
+    "en-US": "The approval decision state is not confirmed yet. Refresh the run details."
+  },
+  "任务或提案状态已变化；没有执行 CRM 工具。": {
+    "zh-CN": "任务或提案状态已变化；没有执行 CRM 工具。",
+    "en-US": "The mission or proposal state changed; no CRM tool was executed."
+  },
+  "任务状态已变化，未进入 CRM 工具；请刷新运行详情。": {
+    "zh-CN": "任务状态已变化，未进入 CRM 工具；请刷新运行详情。",
+    "en-US": "Mission state changed; the CRM tool was not invoked. Refresh the run details."
+  },
+  "工具结果已产生，但运行状态已变化；请核对 CRM。": {
+    "zh-CN": "工具结果已产生，但运行状态已变化；请核对 CRM。",
+    "en-US": "The tool produced a result, but run state changed. Check the CRM."
+  },
+  "CRM 动作结果尚不能确认，已停止自动续跑；请核对业务状态，系统不会自动重放。": {
+    "zh-CN": "CRM 动作结果尚不能确认，已停止自动续跑；请核对业务状态，系统不会自动重放。",
+    "en-US": "The CRM action result cannot be confirmed yet, so automatic resumption stopped. Check business state; the system will not automatically replay the action."
+  },
+  "运行或操作不存在。": {
+    "zh-CN": "运行或操作不存在。",
+    "en-US": "Run or action does not exist."
+  },
+  "该操作没有可用的业务撤销动作。": {
+    "zh-CN": "该操作没有可用的业务撤销动作。",
+    "en-US": "This action has no available business undo operation."
+  },
+  "该操作正在被处理或已撤销。": {
+    "zh-CN": "该操作正在被处理或已撤销。",
+    "en-US": "This action is being processed or has already been undone."
+  },
+  "当前 Agent 版本没有 CRM 商机更新权限，无法安全撤销。": {
+    "zh-CN": "当前 Agent 版本没有 CRM 商机更新权限，无法安全撤销。",
+    "en-US": "The current Agent version lacks CRM opportunity update permission; it cannot safely undo this action."
+  },
+  "CRM 记录自操作后可能已有变化。撤销未应用，请先重新读取商机状态。": {
+    "zh-CN": "CRM 记录自操作后可能已有变化。撤销未应用，请先重新读取商机状态。",
+    "en-US": "The CRM record may have changed since the action. Undo was not applied; read the opportunity state again first."
+  },
+  "无法读取工作台运行。": {
+    "zh-CN": "无法读取工作台运行。",
+    "en-US": "Could not read the workbench run."
+  },
+  "运行材料读取不完整，请重试。": {
+    "zh-CN": "运行材料读取不完整，请重试。",
+    "en-US": "Run materials were not fully read. Try again."
+  },
+  "无法核对本次运行的知识证据，请重试。": {
+    "zh-CN": "无法核对本次运行的知识证据，请重试。",
+    "en-US": "Could not verify this run's knowledge evidence. Try again."
+  },
+  "任务 ID 无效。": {
+    "zh-CN": "任务 ID 无效。",
+    "en-US": "Invalid mission ID."
+  },
+  "任务命令无效。": {
+    "zh-CN": "任务命令无效。",
+    "en-US": "Invalid mission command."
+  },
+  "无法安全保存任务命令，请重试。": {
+    "zh-CN": "无法安全保存任务命令，请重试。",
+    "en-US": "Could not safely save the mission command. Try again."
+  },
+  "任务命令没有返回结果。": {
+    "zh-CN": "任务命令没有返回结果。",
+    "en-US": "The mission command returned no result."
+  },
+  "任务不存在。": {
+    "zh-CN": "任务不存在。",
+    "en-US": "Mission does not exist."
+  },
+  "任务已结束。": {
+    "zh-CN": "任务已结束。",
+    "en-US": "Mission has ended."
+  },
+  "同一请求 ID 已用于不同命令。": {
+    "zh-CN": "同一请求 ID 已用于不同命令。",
+    "en-US": "The same request ID was used for a different command."
+  },
+  "当前成员无权修改任务发送策略。": {
+    "zh-CN": "当前成员无权修改任务发送策略。",
+    "en-US": "The current member cannot change the mission's sending policy."
+  },
+  "任务命令返回值无效。": {
+    "zh-CN": "任务命令返回值无效。",
+    "en-US": "The mission command returned an invalid value."
+  },
+  "命令游标无效。": {
+    "zh-CN": "命令游标无效。",
+    "en-US": "Invalid command cursor."
+  },
+  "无法读取任务。": {
+    "zh-CN": "无法读取任务。",
+    "en-US": "Could not read the mission."
+  },
+  "无法读取任务命令记录。": {
+    "zh-CN": "无法读取任务命令记录。",
+    "en-US": "Could not read mission command records."
+  }
+}

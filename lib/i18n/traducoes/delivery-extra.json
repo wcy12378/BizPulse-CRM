@@ -1,0 +1,10 @@
+{
+  "工作台初始化暂不可用。已有数据保留，请稍后重试。": { "zh-CN": "工作台初始化暂不可用。已有数据保留，请稍后重试。", "en-US": "Workbench setup is temporarily unavailable. Existing data is preserved. Please retry shortly." },
+  "尚未连接真实模型，内置智能体可先查看。": { "zh-CN": "尚未连接真实模型，内置智能体可先查看。", "en-US": "No live model is connected. You can inspect the built-in agents." },
+  "打开独立离线演示（虚构数据，不调用模型）": { "zh-CN": "打开独立离线演示（虚构数据，不调用模型）", "en-US": "Open isolated offline demo (fictional data, no model calls)" },
+  "B2B Export Demo": { "zh-CN": "跨境 B2B 演示漏斗", "en-US": "B2B Export Demo" },
+  "Inquiry": { "zh-CN": "收到询盘", "en-US": "Inquiry" },
+  "Qualified": { "zh-CN": "需求已确认", "en-US": "Qualified" },
+  "Quotation": { "zh-CN": "报价中", "en-US": "Quotation" },
+  "Negotiation": { "zh-CN": "商务谈判", "en-US": "Negotiation" }
+}

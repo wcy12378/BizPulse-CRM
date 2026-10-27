@@ -1,0 +1,26 @@
+{
+  "连接暂不可用，运行记录已保留。请重试读取状态。": {
+    "zh-CN": "连接暂不可用，运行记录已保留。请重试读取状态。",
+    "en-US": "Connection unavailable. The run record is retained. Retry reading its status."
+  },
+  "连接中断，正在重新连接…": {
+    "zh-CN": "连接中断，正在重新连接…",
+    "en-US": "Connection interrupted. Reconnecting…"
+  },
+  "重试读取状态": {
+    "zh-CN": "重试读取状态",
+    "en-US": "Retry reading status"
+  },
+  "重试读取历史": {
+    "zh-CN": "重试读取历史",
+    "en-US": "Retry reading history"
+  },
+  "无法读取最近运行，请刷新重试。": {
+    "zh-CN": "无法读取最近运行，请刷新重试。",
+    "en-US": "Unable to load recent runs. Please retry."
+  },
+  "连接暂不可用，请检查连接后重试。": {
+    "zh-CN": "连接暂不可用，请检查连接后重试。",
+    "en-US": "Connection unavailable. Check your connection and retry."
+  }
+}

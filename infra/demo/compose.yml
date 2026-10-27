@@ -1,0 +1,117 @@
+{
+  "name": "bizpulse-showcase-demo",
+  "services": {
+    "db": {
+      "image": "public.ecr.aws/supabase/postgres:17.6.1.136",
+      "environment": {
+        "POSTGRES_PASSWORD": "${POSTGRES_PASSWORD}",
+        "POSTGRES_DB": "postgres",
+        "JWT_EXP": "3600"
+      },
+      "command": [
+        "postgres",
+        "-c",
+        "config_file=/etc/postgresql/postgresql.conf",
+        "-c",
+        "log_min_messages=fatal"
+      ],
+      "ports": [
+        "127.0.0.1:54341:5432"
+      ],
+      "volumes": [
+        "${CRM_DEMO_DATA_DIR}/db:/var/lib/postgresql/data",
+        "./init.sql:/docker-entrypoint-initdb.d/init-scripts/99-demo.sql:ro"
+      ],
+      "healthcheck": {
+        "test": [
+          "CMD",
+          "pg_isready",
+          "-U",
+          "postgres",
+          "-h",
+          "localhost"
+        ],
+        "interval": "5s",
+        "timeout": "5s",
+        "retries": 30
+      }
+    },
+    "auth": {
+      "image": "public.ecr.aws/supabase/gotrue:v2.197.0",
+      "depends_on": {
+        "db": {
+          "condition": "service_healthy"
+        }
+      },
+      "ports": [
+        "127.0.0.1:54342:9999"
+      ],
+      "environment": {
+        "GOTRUE_API_HOST": "0.0.0.0",
+        "GOTRUE_API_PORT": "9999",
+        "API_EXTERNAL_URL": "http://127.0.0.1:54340",
+        "GOTRUE_DB_DRIVER": "postgres",
+        "GOTRUE_DB_DATABASE_URL": "postgres://supabase_auth_admin:${POSTGRES_PASSWORD}@db:5432/postgres",
+        "GOTRUE_SITE_URL": "http://localhost:54349",
+        "GOTRUE_URI_ALLOW_LIST": "http://localhost:54349/**",
+        "GOTRUE_DISABLE_SIGNUP": "true",
+        "GOTRUE_EXTERNAL_EMAIL_ENABLED": "true",
+        "GOTRUE_MAILER_AUTOCONFIRM": "true",
+        "GOTRUE_JWT_ADMIN_ROLES": "service_role",
+        "GOTRUE_JWT_AUD": "authenticated",
+        "GOTRUE_JWT_DEFAULT_GROUP_NAME": "authenticated",
+        "GOTRUE_JWT_EXP": "3600",
+        "GOTRUE_JWT_SECRET": "${JWT_SECRET}"
+      }
+    },
+    "rest": {
+      "image": "public.ecr.aws/supabase/postgrest:v14.18",
+      "depends_on": {
+        "db": {
+          "condition": "service_healthy"
+        }
+      },
+      "ports": [
+        "127.0.0.1:54343:3000"
+      ],
+      "environment": {
+        "PGRST_DB_URI": "postgres://authenticator:${POSTGRES_PASSWORD}@db:5432/postgres",
+        "PGRST_DB_SCHEMAS": "public,storage",
+        "PGRST_DB_EXTRA_SEARCH_PATH": "public,extensions",
+        "PGRST_DB_ANON_ROLE": "anon",
+        "PGRST_JWT_SECRET": "${JWT_SECRET}"
+      }
+    },
+    "storage": {
+      "image": "public.ecr.aws/supabase/storage-api:v1.81.0",
+      "depends_on": {
+        "db": {
+          "condition": "service_healthy"
+        },
+        "rest": {
+          "condition": "service_started"
+        }
+      },
+      "ports": [
+        "127.0.0.1:54344:5000"
+      ],
+      "volumes": [
+        "${CRM_DEMO_DATA_DIR}/storage:/var/lib/storage"
+      ],
+      "environment": {
+        "ANON_KEY": "${ANON_KEY}",
+        "SERVICE_KEY": "${SERVICE_ROLE_KEY}",
+        "AUTH_JWT_SECRET": "${JWT_SECRET}",
+        "DATABASE_URL": "postgres://supabase_storage_admin:${POSTGRES_PASSWORD}@db:5432/postgres",
+        "POSTGREST_URL": "http://rest:3000",
+        "STORAGE_BACKEND": "file",
+        "FILE_STORAGE_BACKEND_PATH": "/var/lib/storage",
+        "FILE_SIZE_LIMIT": "52428800",
+        "TENANT_ID": "demo",
+        "REGION": "local",
+        "GLOBAL_S3_BUCKET": "demo",
+        "ENABLE_IMAGE_TRANSFORMATION": "false"
+      }
+    }
+  }
+}

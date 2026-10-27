@@ -1,0 +1,278 @@
+{
+  "首页": {
+    "zh-CN": "首页",
+    "en-US": "Home"
+  },
+  "Agent–CRM 工作台": {
+    "zh-CN": "Agent–CRM 工作台",
+    "en-US": "Agent–CRM Workbench"
+  },
+  "Configurações": {
+    "zh-CN": "设置",
+    "en-US": "Settings"
+  },
+  "Marca": {
+    "zh-CN": "品牌",
+    "en-US": "Brand"
+  },
+  "Conversões": {
+    "zh-CN": "转化",
+    "en-US": "Conversions"
+  },
+  "Atualização do sistema": {
+    "zh-CN": "系统更新",
+    "en-US": "System update"
+  },
+  "Tags": {
+    "zh-CN": "标签",
+    "en-US": "Tags"
+  },
+  "Meta Ads": {
+    "zh-CN": "Meta 广告",
+    "en-US": "Meta Ads"
+  },
+  "atendimento e vendas por WhatsApp com agentes de IA": {
+    "zh-CN": "AI Agent 驱动的 WhatsApp 客户服务与销售",
+    "en-US": "WhatsApp customer service and sales with AI agents"
+  },
+  "Descrição da instalação": {
+    "zh-CN": "集中管理 WhatsApp 客户服务与销售流程。AI Agent 处理可解决的事项，并将需要人工介入的问题交给团队，保留处理记录。支持多组织隔离及巴西 LGPD 相关数据请求流程；运营方负责配置使用规则并履行适用的数据保护义务。",
+    "en-US": "Manage WhatsApp customer service and sales in one pipeline. AI agents handle what they can and hand matters requiring human input to your team, with actions recorded. Supports tenant isolation and Brazilian LGPD data request workflows; the operator configures usage rules and remains responsible for applicable data protection obligations."
+  },
+  "atendimento": {
+    "zh-CN": "客户服务",
+    "en-US": "customer service"
+  },
+  "IA conversacional": {
+    "zh-CN": "对话式 AI",
+    "en-US": "conversational AI"
+  },
+  "Criar conta": {
+    "zh-CN": "创建账户",
+    "en-US": "Create account"
+  },
+  "Acesso revogado": {
+    "zh-CN": "访问权限已撤销",
+    "en-US": "Access revoked"
+  },
+  "Acesso negado — Admin Plataforma": {
+    "zh-CN": "访问被拒绝 — 平台管理",
+    "en-US": "Access denied — Platform administration"
+  },
+  "Verificação em duas etapas": {
+    "zh-CN": "两步验证",
+    "en-US": "Two-step verification"
+  },
+  "Entrar": {
+    "zh-CN": "登录",
+    "en-US": "Sign in"
+  },
+  "Recuperar senha": {
+    "zh-CN": "找回密码",
+    "en-US": "Reset password"
+  },
+  "Recuperar acesso": {
+    "zh-CN": "恢复访问",
+    "en-US": "Recover access"
+  },
+  "Nova senha": {
+    "zh-CN": "新密码",
+    "en-US": "New password"
+  },
+  "Conta suspensa": {
+    "zh-CN": "账户已暂停",
+    "en-US": "Account suspended"
+  },
+  "Extensões da instalação": {
+    "zh-CN": "实例扩展",
+    "en-US": "Installation extensions"
+  },
+  "Servidor de e-mail da instalação": {
+    "zh-CN": "实例邮件服务器",
+    "en-US": "Installation email server"
+  },
+  "Detalhe de Usuário — Admin Plataforma": {
+    "zh-CN": "用户详情 — 平台管理",
+    "en-US": "User details — Platform administration"
+  },
+  "Usuários — Admin Plataforma": {
+    "zh-CN": "用户 — 平台管理",
+    "en-US": "Users — Platform administration"
+  },
+  "Destinos internos": {
+    "zh-CN": "内部目标",
+    "en-US": "Internal destinations"
+  },
+  "Uso & Custo — Admin Plataforma": {
+    "zh-CN": "用量与费用 — 平台管理",
+    "en-US": "Usage and cost — Platform administration"
+  },
+  "Dashboard — Admin Plataforma": {
+    "zh-CN": "仪表盘 — 平台管理",
+    "en-US": "Dashboard — Platform administration"
+  },
+  "Configuração da instalação": {
+    "zh-CN": "实例设置",
+    "en-US": "Installation settings"
+  },
+  "Cadastro na instalação": {
+    "zh-CN": "实例注册",
+    "en-US": "Installation registration"
+  },
+  "Tenants — Admin Plataforma": {
+    "zh-CN": "组织 — 平台管理",
+    "en-US": "Organizations — Platform administration"
+  },
+  "API Oficial da Meta da instalação": {
+    "zh-CN": "实例 Meta 官方 API",
+    "en-US": "Installation Meta official API"
+  },
+  "LGPD — Admin": {
+    "zh-CN": "LGPD 数据保护 — 管理",
+    "en-US": "LGPD data protection — Administration"
+  },
+  "Marca da instalação": {
+    "zh-CN": "实例品牌",
+    "en-US": "Installation branding"
+  },
+  "Audit Entry — Admin": {
+    "zh-CN": "审计条目 — 管理",
+    "en-US": "Audit entry — Administration"
+  },
+  "Solicitação LGPD — Admin": {
+    "zh-CN": "LGPD 数据请求 — 管理",
+    "en-US": "LGPD request — Administration"
+  },
+  "Detalhe do Incidente — Admin Plataforma": {
+    "zh-CN": "事件详情 — 平台管理",
+    "en-US": "Incident details — Platform administration"
+  },
+  "Novo Tenant — Admin Plataforma": {
+    "zh-CN": "新建组织 — 平台管理",
+    "en-US": "New organization — Platform administration"
+  },
+  "Audit Log — Admin": {
+    "zh-CN": "审计日志 — 管理",
+    "en-US": "Audit log — Administration"
+  },
+  "Incidentes — Admin Plataforma": {
+    "zh-CN": "事件 — 平台管理",
+    "en-US": "Incidents — Platform administration"
+  },
+  "Platform Admins — Admin Plataforma": {
+    "zh-CN": "平台管理员 — 平台管理",
+    "en-US": "Platform administrators — Platform administration"
+  },
+  "Comportamento da instalação": {
+    "zh-CN": "实例行为",
+    "en-US": "Installation behavior"
+  },
+  "Google Agenda da instalação": {
+    "zh-CN": "实例 Google 日历",
+    "en-US": "Installation Google Calendar"
+  },
+  "Webhooks": {
+    "zh-CN": "Webhook 回调",
+    "en-US": "Webhooks"
+  },
+  "Respostas rápidas": {
+    "zh-CN": "快捷回复",
+    "en-US": "Quick replies"
+  },
+  "Termos de Uso": {
+    "zh-CN": "使用条款",
+    "en-US": "Terms of use"
+  },
+  "Equipe": {
+    "zh-CN": "团队",
+    "en-US": "Team"
+  },
+  "Política de Privacidade": {
+    "zh-CN": "隐私政策",
+    "en-US": "Privacy policy"
+  },
+  "Conexões": {
+    "zh-CN": "连接",
+    "en-US": "Connections"
+  },
+  "Guia da extensão": {
+    "zh-CN": "扩展指南",
+    "en-US": "Extension guide"
+  },
+  "Extensões": {
+    "zh-CN": "扩展",
+    "en-US": "Extensions"
+  },
+  "CRM": {
+    "zh-CN": "客户关系管理",
+    "en-US": "CRM"
+  },
+  "Dados externos": {
+    "zh-CN": "外部数据",
+    "en-US": "External data"
+  },
+  "Análise": {
+    "zh-CN": "分析",
+    "en-US": "Analysis"
+  },
+  "Audit Log": {
+    "zh-CN": "审计日志",
+    "en-US": "Audit log"
+  },
+  "Contatos": {
+    "zh-CN": "联系人",
+    "en-US": "Contacts"
+  },
+  "Inbox": {
+    "zh-CN": "收件箱",
+    "en-US": "Inbox"
+  },
+  "Tarefas": {
+    "zh-CN": "任务",
+    "en-US": "Tasks"
+  },
+  "Produtos": {
+    "zh-CN": "产品",
+    "en-US": "Products"
+  },
+  "Desempenho": {
+    "zh-CN": "绩效",
+    "en-US": "Performance"
+  },
+  "Prospecção": {
+    "zh-CN": "客户拓展",
+    "en-US": "Prospecting"
+  },
+  "Atividades": {
+    "zh-CN": "活动记录",
+    "en-US": "Activities"
+  },
+  "Agente de IA": {
+    "zh-CN": "AI 智能体",
+    "en-US": "AI agent"
+  },
+  "Funis": {
+    "zh-CN": "销售漏斗",
+    "en-US": "Pipelines"
+  },
+  "Radar": {
+    "zh-CN": "商机雷达",
+    "en-US": "Radar"
+  },
+  "Aviso no WhatsApp": {
+    "zh-CN": "WhatsApp 通知",
+    "en-US": "WhatsApp notification"
+  },
+  "Kit visual da Agenda": {
+    "zh-CN": "日程视觉组件库",
+    "en-US": "Calendar visual kit"
+  },
+  "Design Showcase — Pi Native CRM": {
+    "zh-CN": "设计展示 — Pi Native CRM",
+    "en-US": "Design showcase — Pi Native CRM"
+  },
+  "Painel navegável de design system. Soft-tech / calmo.": {
+    "zh-CN": "可浏览的设计系统展示，采用柔和、平静的科技风格。",
+    "en-US": "A browsable design system showcase with a soft, calm technology style."
+  }
+}
