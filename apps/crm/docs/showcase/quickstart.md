@@ -2,9 +2,10 @@
 
 ## 只看展示：无需 Key、Docker、数据库或 node_modules
 
-安装 Node.js 22+，在仓库目录执行：
+安装 Node.js 22+，先从仓库根目录进入 CRM 项目：
 
 ```sh
+cd apps/crm
 node scripts/demo-offline.mjs
 ```
 
@@ -12,7 +13,7 @@ node scripts/demo-offline.mjs
 
 ## 真实 CRM：首次安装
 
-需要 Node.js 22+、pnpm、Docker Desktop（或 Linux Docker Engine）及 Compose v2。Docker 应运行 Linux containers。使用**新的独立 clone**，已有 `.env.local` 会被保护并拒绝覆盖。
+需要 Node.js 22+、pnpm、Docker Desktop（或 Linux Docker Engine）及 Compose v2。Docker 应运行 Linux containers。使用**新的独立 clone**并先进入 apps/crm，已有 `.env.local` 会被保护并拒绝覆盖。
 
 ```sh
 pnpm install --frozen-lockfile
@@ -38,7 +39,7 @@ node scripts/demo-setup.mjs --pull
 pnpm demo --port=54349
 ```
 
-setup 生成随机数据库密码、JWT、service role 与管理员密码，仅保存到运行目录 `supabase-demo/compose.env` 和仓库 `.env.local`。不要上传、截图或分享这两个文件。管理员邮箱为 `owner@example.invalid`，密码可在自己的 `.env.local` 中查看 `OWNER_PASSWORD`。虚构 CRM 演示账号由 `pnpm demo` 的幂等 seed 创建；按终端输出的 `/demo/enter?next=/app` 地址进入。
+setup 生成随机数据库密码、JWT、service role 与管理员密码，仅保存到运行目录 `supabase-demo/compose.env` 和 CRM 项目目录 `.env.local`。不要上传、截图或分享这两个文件。管理员邮箱为 `owner@example.invalid`，密码可在自己的 `.env.local` 中查看 `OWNER_PASSWORD`。虚构 CRM 演示账号由 `pnpm demo` 的幂等 seed 创建；按终端输出的 `/demo/enter?next=/app` 地址进入。
 
 首次流程依次是：启动数据库/Auth/REST/Storage → 等待 Auth 和 Storage 初始化 → 应用 `supabase/baseline.sql` → 创建组织及管理员 → demo 创建虚构数据 → Next 编译并启动。首次编译需要几分钟。没有设置任何付费模型密钥，也没有启动任务 worker、cron 或外部消息集成。
 

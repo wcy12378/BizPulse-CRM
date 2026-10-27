@@ -5,6 +5,7 @@
 | 文件 | 用途 |
 |---|---|
 | `shangmai-icon.svg` | 独立符号，适用于小尺寸图标 |
+| `shangmai-icon-dark.svg` | 深色背景的同一独立符号 |
 | `shangmai-logo.svg` | 浅色界面的商脉组合标识 |
 | `shangmai-logo-dark.svg` | 深色界面的商脉组合标识 |
 

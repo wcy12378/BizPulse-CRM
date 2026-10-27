@@ -147,16 +147,20 @@ if [ ! -f "$(git rev-parse --git-dir)/shallow" ] \
   echo "::warning::a base '$BASE' andou depois do fork — esta é a medição da BRANCH, não a do merge. Rode 'git merge $BASE' e meça de novo: migration nova pareada como renome pelo -M não aparece aqui."
 fi
 
-adicionadas="$(git diff --name-only -M --diff-filter=A "$BASE" HEAD -- supabase/migrations/ 2>/dev/null \
-  | grep -E '^supabase/migrations/[^/]+\.sql$' || true)"
+if ! git cat-file -e "$BASE:apps/crm/supabase/migrations" 2>/dev/null || ! git cat-file -e "HEAD:apps/crm/supabase/migrations" 2>/dev/null; then
+  echo "::error::NÃO MEDIDO: a base ou HEAD não possui apps/crm/supabase/migrations; confira a reorganização antes de validar."
+  exit 2
+fi
+adicionadas="$(git diff --name-only -M --diff-filter=A "$BASE" HEAD -- apps/crm/supabase/migrations/ 2>/dev/null \
+  | grep -E '^apps/crm/supabase/migrations/[^/]+\.sql$' || true)"
 if [ -z "$adicionadas" ]; then
   echo "OK — nenhuma migration acrescentada por este PR (base '$BASE')."
   exit 0
 fi
 adicionadas_nomes="$(xargs -n1 basename <<<"$adicionadas" | sed '/^$/d')"
 
-base_arvore="$(git ls-tree -r --name-only "$BASE" -- supabase/migrations 2>/dev/null | sed 's#^supabase/migrations/##' || true)"
-head_arvore="$(git ls-tree -r --name-only HEAD -- supabase/migrations 2>/dev/null | sed 's#^supabase/migrations/##' || true)"
+base_arvore="$(git ls-tree -r --name-only "$BASE" -- apps/crm/supabase/migrations 2>/dev/null | sed 's#^apps/crm/supabase/migrations/##' || true)"
+head_arvore="$(git ls-tree -r --name-only HEAD -- apps/crm/supabase/migrations 2>/dev/null | sed 's#^apps/crm/supabase/migrations/##' || true)"
 
 # ── as outras refs da máquina (issue #1155) ────────────────────────────────────────────
 base_commit="$(git rev-parse "$BASE^{commit}" 2>/dev/null || true)"
@@ -298,7 +302,7 @@ todas="$(printf '%s\n%s\n' "$todos_refs" "$cabecas" | sed '/^$/d')"
 arvore_por_ref=""; nomes_por_arvore=""
 if [ -n "$todas" ]; then
   # "<ref> <árvore>"
-  arvore_por_ref="$(sed 's#$#:supabase/migrations#' <<<"$todas" \
+  arvore_por_ref="$(sed 's#$#:apps/crm/supabase/migrations#' <<<"$todas" \
     | git cat-file --batch-check='%(objectname) %(objecttype)' 2>/dev/null \
     | paste -d' ' <(printf '%s\n' "$todas") - | awk '$3 == "tree" { print $1, $2 }')"
   vazia="$(git hash-object -t tree /dev/null)"
@@ -367,7 +371,7 @@ fi
 falhou=0
 while IFS= read -r nome; do
   [ -z "$nome" ] && continue
-  caminho="supabase/migrations/$nome"
+  caminho="apps/crm/supabase/migrations/$nome"
   ts="$(sed -nE 's/^([0-9]{14})_[0-9]{4}_.+\.sql$/\1/p' <<<"$nome")"
   nnnn="$(sed -nE 's/^[0-9]{14}_([0-9]{4})_.+\.sql$/\1/p' <<<"$nome")"
 
